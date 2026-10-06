@@ -5,3 +5,4 @@ for i in range(a):
         print("*",end=" ")
     print() 
 print("hello")
+print("ss")
